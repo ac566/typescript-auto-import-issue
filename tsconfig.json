@@ -6,7 +6,7 @@
         "baseUrl": ".",
         "paths": {
             "@myLib/*": [
-                "./src/lib/*/_index.ts"
+                "./src/lib/src/*/_index.ts"
             ]
         }
     }
